@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eltongit
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevOps and SRE.
 
 
 <!---
